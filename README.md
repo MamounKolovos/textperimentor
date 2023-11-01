@@ -1,6 +1,6 @@
-# Mamoun Kolovos' Text Experiments
+# Mamoun Kolovos - Text Experiments
 This is a collection of my visually interesting animations using **only text characters** with JavaScript, Adobe After Effects, applied mathematics &amp; various programming techniques!
-I originally released these on my Twitter and organized them here for your convenience. Most of the experiments showcased on this page are videos so **make sure to click on them to watch**. Please enjoy :)
+I originally released these on my Twitter and organized them here for your convenience. Most of the experiments showcased on this page are videos so **make sure to click on them to watch**.
 
 If you would like to learn more about how I created the experiments in these videos [click here to read my FAQ](FAQ.md).
 
